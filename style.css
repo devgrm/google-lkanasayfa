@@ -1,0 +1,51 @@
+.search {
+    background-color: #d3d3d3;
+    padding-left: 36%;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-bottom: 0px;
+}
+
+.buttons {
+    margin: 0px 56px 0px;
+}
+
+.text {
+    margin: 0px 56px;
+}
+
+.yesil {
+    background-color: aquamarine;
+    margin-left: 10px;
+    margin-right: 0px;
+    padding-right: 250px;
+    padding-left:  250px;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    margin-top: 4px;
+    float: left;
+}
+
+.koyuyesil{
+    background-color:#9bffd0;
+    margin-left: 0px;
+    margin-right: 0px;margin-top: 4px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 150px;
+    padding-left: 150px;
+    float: left;
+}
+.sonyesil {
+    background-color: #62b362;
+    margin-right: px;
+    margin-left: 250px;
+    margin-top: 4px;
+    padding-left: 10px;
+    padding-bottom: 21px;
+
+}
+
+.footer {
+    text-align: center;
+}
